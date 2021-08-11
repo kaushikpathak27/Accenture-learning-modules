@@ -1,1 +1,1 @@
-select resortname, townname from resort order by resortname;
+select resortid, resortname, street, townname, starRating from resort order by resortname;
